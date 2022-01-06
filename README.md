@@ -1,6 +1,7 @@
 # ParseTable-Optimizer
 This java program gets a correct parse table (SLR1 table or LALR1 table) and prints optimized parse table.<br />
 Firt enter number of rows and colums , then enter terminals and non-terminals and after that , enter elements of your table.<br />
+Errors are represented with _ (underline)<br />
 Example of correct input :<br />
 <p>
 15 10<br />
